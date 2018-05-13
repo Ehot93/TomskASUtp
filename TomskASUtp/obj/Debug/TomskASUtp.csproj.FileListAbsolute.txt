@@ -1,0 +1,10 @@
+C:\Users\Vlad\source\repos\TomskASUtp\TomskASUtp\bin\Debug\TomskASUtp.exe.config
+C:\Users\Vlad\source\repos\TomskASUtp\TomskASUtp\bin\Debug\TomskASUtp.exe
+C:\Users\Vlad\source\repos\TomskASUtp\TomskASUtp\bin\Debug\TomskASUtp.pdb
+C:\Users\Vlad\source\repos\TomskASUtp\TomskASUtp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vlad\source\repos\TomskASUtp\TomskASUtp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vlad\source\repos\TomskASUtp\TomskASUtp\obj\Debug\TomskASUtp.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\source\repos\TomskASUtp\TomskASUtp\obj\Debug\TomskASUtp.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\TomskASUtp\TomskASUtp\obj\Debug\TomskASUtp.csproj.CopyComplete
+C:\Users\Vlad\source\repos\TomskASUtp\TomskASUtp\obj\Debug\TomskASUtp.exe
+C:\Users\Vlad\source\repos\TomskASUtp\TomskASUtp\obj\Debug\TomskASUtp.pdb
